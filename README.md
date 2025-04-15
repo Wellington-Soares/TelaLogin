@@ -1,2 +1,2 @@
 # TelaLogin
-Desenvolvimento de uma tela de Login utilizando HTML5 e CSS3
+Criada uma tela de login responsiva, utilizando HTML e CSS, com atenção à organização visual e usabilidade. Essa etapa do projeto reforçou habilidades no uso de ferramentas de estilização e marcação, fundamentais para a construção de interfaces modernas e intuitivas.
